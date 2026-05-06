@@ -1,0 +1,22 @@
+diffFG=0.05
+absDiffFG=0.20555555555555555
+FgBgDice=97.776%
+bestDice=93.896%
+SBD=91.873%
+RSUnet.th
+net = vo.RsUnet(out_chs=20).cuda()
+
+
+diffFG=0.03888888888888889
+absDiffFG=0.17222222222222222
+FgBgDice=97.890%
+bestDice=94.077%
+SBD=92.664%
+``
+
+
+
+
+
+
+

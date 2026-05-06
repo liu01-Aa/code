@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@connect.westb.seetacloud.com:33061 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@connect.cqa1.seetacloud.com:42373 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:42373 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_986" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:42373 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_449" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:42373 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_491" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:42373 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_256" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.gda1.seetacloud.com:35755 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_177" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:12493 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-pub" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:47819 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_640" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:47819 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_252" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:33061 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_551" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:13418 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_315" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:38336 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_627" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_948" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_22" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/Lf/code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/Lf/code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_970" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_98" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password (7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_778" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:46492 password (8)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_225" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
