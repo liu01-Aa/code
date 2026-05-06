@@ -1,21 +1,21 @@
-DMSHA-Net: Dynamic Multi-Scale Hierarchical Attention Network
+# DMSHA-Net: Dynamic Multi-Scale Hierarchical Attention Network
 
-本项目主要用于植物叶片的精确分割任务。该模型通过集成动态多尺度特征融合与层次注意力机制，能有效应对复杂背景下的边缘提取挑战。
+This is the official implementation of **DMSHA-Net**, specifically designed for precision plant leaf segmentation tasks. By integrating **Dynamic Multi-scale Feature Fusion** and **Hierarchical Attention** mechanisms, the model effectively addresses the challenges of edge extraction in complex backgrounds.
 
-## 📊 支持的数据集
-本项目已针对以下三个主流植物分割公开数据集进行了优化和测试：
-*   **CVPPP**: 植物表型图像分析挑战赛数据集。
-*   **KOMATSUNA**: 小松菜数据集，包含丰富的多叶片实例。
-*   **MSU-PID**: 密歇根州立大学提供的植物图像数据集。
+## 📊 Supported Datasets
+The project has been optimized and evaluated on three mainstream open-source plant segmentation datasets:
+*   **CVPPP**: The Plant Phenotyping Evaluation (CVPPP) dataset.
+*   **KOMATSUNA**: A dataset for komatsuna (Japanese mustard spinach) segmentation with various leaf instances.
+*   **MSU-PID**: Michigan State University Plant Image Dataset.
 
-## 🛠️ 环境要求
+## 🛠️ Environment Requirements
 *   **Python**: 3.x
-*   **框架**: PyTorch
-*   **主要依赖**: `torchvision`, `opencv-python`, `numpy`
-*   *建议使用项目自带的虚拟环境配置。*
+*   **Framework**: PyTorch
+*   **Main Dependencies**: `torchvision`, `opencv-python`, `numpy`
+*   *Note: It is recommended to use the provided virtual environment (`myenv`) for configuration.*
 
-## 🚀 快速开始
-1. **数据准备**: 将下载的数据集存放在项目根目录的 `Dataset/` 文件夹下。
-2. **模型训练**: 针对 CVPPP 等数据集，直接运行以下脚本开始训练：
+## 🚀 Quick Start
+1. **Data Preparation**: Place the downloaded datasets into the `Dataset/` folder in the project root directory.
+2. **Model Training**: For the CVPPP dataset, run the following script to start training:
    ```bash
    python train_cvppp.py
